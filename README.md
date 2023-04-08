@@ -13,5 +13,5 @@ We also encourage helping other group members who are following the guided hands
 There are no fixed answers for the challenges; get creative and solve them in whatever way you desire!
 
 # Prerequisites
-Install GitHub Desktop or Visual Studio Code
-(Optional) Install Node.js
+1. Install GitHub Desktop or Visual Studio Code
+2. (Optional) Install Node.js
