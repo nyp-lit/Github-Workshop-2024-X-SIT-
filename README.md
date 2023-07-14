@@ -25,6 +25,4 @@ Remember to [fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo
 2. [Challenge 2: Automation](./challenges/challenge2.md)
 3. [Challenge 3: Documenting Your Project](./challenges/challenge3.md)
 
----
 
-[< Back to Introduction](../README.md)
