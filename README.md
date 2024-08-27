@@ -1,4 +1,4 @@
-# Github-Workshop-2023-X-SIT-
+# Github 2024 SIT X LIT
 Collab of SIT X LIT
 
 Slides link: https://docs.google.com/presentation/d/1aAhB5cNBKuwjX1X0M_rQqEdWn2llLm2GXkGYH9ZOtns/edit?usp=sharing
